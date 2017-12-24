@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Native filter example</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="filtered_image">Filtered image</string>
+
+    <string-array name="filterNames">
+        <item>Normal binarization</item>
+        <item>Average binarzation</item>
+        <item>Invert</item>
+    </string-array>
+</resources>
